@@ -1,0 +1,7 @@
+[Bb]in/
+[Oo]bj/
+![Bb]in/Designs/*
+*.user
+*.suo
+/.vs
+/packages
